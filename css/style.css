@@ -233,7 +233,7 @@ display: none;
  top: 28px;
 } 
 	.article__text-3 {
-	display: inline;
+	display: block;
 	}
     }
 }
