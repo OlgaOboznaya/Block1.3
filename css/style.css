@@ -174,9 +174,9 @@ display: none;
         height: 160px;
 }
 
-/* 	.article__text-2 {
-	display: inlaine;
-	} */
+	.article__text-2 {
+	display: block;
+	
 	
 @media screen and (min-width:1120px){
    .header__nav{
@@ -233,7 +233,7 @@ display: none;
  top: 28px;
 } 
 	.article__text-3 {
-	display: inlaine;
+	display: inline;
 	}
     }
 }
