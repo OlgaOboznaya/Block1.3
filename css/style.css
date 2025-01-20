@@ -174,9 +174,9 @@ display: none;
         height: 160px;
 }
 
-	.article__text-2 {
+/* 	.article__text-2 {
 	display: inlaine;
-	}
+	} */
 	
 @media screen and (min-width:1120px){
    .header__nav{
