@@ -138,7 +138,8 @@ display: none;
 }
 
  .article__text-1{
-margin-bottom: 7px;
+	 display: block;
+margin-bottom: 15px;
  }
 	 
 .picture img{
