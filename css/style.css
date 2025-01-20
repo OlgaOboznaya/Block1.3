@@ -107,6 +107,7 @@ background-color:#FFFFFF
     font-style: italic;
     font-size: 14px;
     color: #1B1C21;
+	
 
 
 }
@@ -174,7 +175,7 @@ display: none;
 }
 
 	.article__text-2 {
-	display: block
+	display: inlaine;
 	}
 	
 @media screen and (min-width:1120px){
@@ -232,7 +233,7 @@ display: none;
  top: 28px;
 } 
 	.article__text-3 {
-	display: block
+	display: inlaine;
 	}
     }
 }
