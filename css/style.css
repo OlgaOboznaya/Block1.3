@@ -229,12 +229,13 @@ display: none;
     min-width: 1063px;
  }
 .article__text-3 {
-	display: block;}
+	display: inline-block;}
+	
 .section {
  position: absolute;
  top: 28px;
 } 
 	
-	
+}	
     }
 }
