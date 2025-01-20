@@ -107,14 +107,17 @@ background-color:#FFFFFF
     font-style: italic;
     font-size: 14px;
     color: #1B1C21;
-	display: inline-block;
-/*     white-space: pre-line; */
+
 
 }
 
 .article__text {
     height: 90px;
-    overflow-y: hidden;
+/*     overflow-y: hidden; */
+}
+
+.article__text-3, .article__text-2 {
+display: none;
 }
 
 .article__expand {
@@ -170,6 +173,10 @@ background-color:#FFFFFF
         height: 160px;
 }
 
+	.article__text-2 {
+	display: block
+	}
+	
 @media screen and (min-width:1120px){
    .header__nav{
     justify-content: flex-end;
@@ -224,5 +231,8 @@ background-color:#FFFFFF
  position: absolute;
  top: 28px;
 } 
+	.article__text-3 {
+	display: block
+	}
     }
 }
