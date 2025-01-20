@@ -137,7 +137,10 @@ display: none;
 
 }
 
-
+ .article__text-1{
+margin-bottom: 7px;
+ }
+	 
 .picture img{
        margin:  auto;
     height: 100%;
