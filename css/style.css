@@ -228,12 +228,13 @@ display: none;
     justify-content: space-between;
     min-width: 1063px;
  }
+.article__text-3 {
+	display: block;}
 .section {
  position: absolute;
  top: 28px;
 } 
-	.article__text-3 {
-	display: block;
-	}
+	
+	
     }
 }
