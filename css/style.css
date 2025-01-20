@@ -130,7 +130,12 @@ background-color:#FFFFFF
 }
 
 
-
+.picture img{
+       margin:  auto;
+    height: 100%;
+    width: 100%;
+    
+}
 
 
 
