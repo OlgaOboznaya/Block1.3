@@ -57,6 +57,9 @@ background-color:#FFFFFF
     margin: 24px 16px;
 }
 
+.main {
+   background-color: #F8F8F8;
+}
 
 .title h1 {
     color: black;
@@ -73,6 +76,8 @@ background-color:#FFFFFF
     position: relative;
     right: 16px;
 }
+
+
 
 .slide-menu {
     display: flex;
